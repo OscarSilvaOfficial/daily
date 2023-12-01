@@ -1,0 +1,2 @@
+- Ajustei o back da api de estudantes para que o front da plataforma pegue o e-mail secundario
+

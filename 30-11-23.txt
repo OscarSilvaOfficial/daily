@@ -1,0 +1,3 @@
+- Correção no auto complete do endereço
+- Refatoração da função pra api
+- Erro de vinculo entre deal e contato

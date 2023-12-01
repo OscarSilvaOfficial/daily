@@ -1,0 +1,9 @@
+- Bug de e-mail
+- Reset do cache ao mudar email na plataforma
+- Deploy da plataforma em QA
+- Adição de bloqueio para edição de email para contas não B2B
+- Ajuste no front para não pedir o email ao fazer login com a conta segundária
+- Verificação de acesso dos usuários
+- Geração de certificado de usuários
+- Criação de endpoints para seats em lives
+- Ajuste no front da Checkout para não mostrar btn de ir para plataforma
